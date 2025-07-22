@@ -1,4 +1,4 @@
 # student-demo
 This is my first repository
 <br>
-AUTHOR is Vaghela Shailesh
+Author is Vaghela Shailesh(student)
